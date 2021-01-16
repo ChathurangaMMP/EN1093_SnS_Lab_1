@@ -1,5 +1,5 @@
 # Signals and Systems Lab1
-This repository contains the resources requried for the EN1093 Numpy Orientation session for the EN1093 Signals and Systems lab classes. Please follow the following instructions to access these resources.
+This repository contains the resources requried for the EN1093 Signals and Systems lab class 1. Please follow the following instructions to access these resources.
 
 ## Tips
 Be familiar with Google Colab and using GitHub before starting this lab. 
@@ -10,7 +10,7 @@ Be familiar with Google Colab and using GitHub before starting this lab.
 
 ## Instructions
 * Make a folder called "EN1060_Signals_and_Systems_Labs_190XXX" in your google drive. (Skip this if you have this folder in your drive already)
-* Inside "EN1060_Signals_and_Systems_Labs_190XXX" folder, make a folder called "Orientation". (i.e.EN1060_Signals_and_Systems_Labs_190XXX/Orientation)
+* Inside "EN1060_Signals_and_Systems_Labs_190XXX" folder, make a folder called "Lab1". (i.e.EN1060_Signals_and_Systems_Labs_190XXX/Lab1)
 * Open the "Clone_File.ipynb" that we created during the Introduction to Colab session.
 * Connect to a run time in the newly created notebook.
 * Mount the google drive by running the following code.
@@ -19,7 +19,7 @@ Be familiar with Google Colab and using GitHub before starting this lab.
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-* Navigate to the "Orientation" folder using the following command. Note : replace "/path/to/EN1060_Signals_and_Systems_Labs_190XXX/Orientation" with the true path.
+* Navigate to the "Orientation" folder using the following command. Note : replace "/path/to/EN1060_Signals_and_Systems_Labs_190XXX/Lab1" with the true path.
 ```
 % cd /path/to/EN1060_Signals_and_Systems_Labs_190XXX/Orientation
 ```
