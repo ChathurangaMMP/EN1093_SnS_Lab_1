@@ -19,14 +19,14 @@ Be familiar with Google Colab and using GitHub before starting this lab.
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-* Navigate to the "Orientation" folder using the following command. Note : replace "/path/to/EN1060_Signals_and_Systems_Labs_190XXX/Lab1" with the true path.
+* Navigate to the "Lab1" folder using the following command. Note : replace "/path/to/EN1060_Signals_and_Systems_Labs_190XXX/Lab1" with the true path.
 ```
-% cd /path/to/EN1060_Signals_and_Systems_Labs_190XXX/Orientation
+% cd /path/to/EN1060_Signals_and_Systems_Labs_190XXX/Lab1
 ```
 * Clone this github repository to the current folder.
 ```
-! git clone https://github.com/achinthaw/EN1093_SnS_Lab_0.git
+! git clone https://github.com/achinthaw/EN1093_SnS_Lab_1.git
 ```
-* Close the "Clone_File.ipynb" and open the colab file ("Introduction_to_Numpy_&_Matplotlib.ipynb") inside the newly cloned repository.
+* Close the "Clone_File.ipynb" and open the colab file ("EN1060_lab01.ipynb") inside the newly cloned repository.
 
 Looking forwards to seeing you at class! :)
